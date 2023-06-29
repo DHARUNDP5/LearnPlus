@@ -1,2 +1,2 @@
-# Academy-Project.
+# Academy-Project
 
